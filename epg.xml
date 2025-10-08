@@ -6,7 +6,7 @@
     <url>https://www.dazn.com/fr-FR</url>
   </channel>
 
-  <programme start="20251007000000 +0000" stop="20251007235959 +0000" channel="DAZN.fr@Europe">
+  <programme start="20251008000000 +0000" stop="20251008235959 +0000" channel="DAZN.fr@Europe">
     <title lang="fr">Serie A sur DAZN France</title>
     <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France.</desc>
   </programme>
