@@ -1,33 +1,29 @@
-name: Dazn France EPG Auto Update
+name: 🕒 Dazn France EPG Auto Update
 
 on:
   schedule:
-    - cron: "0 * * * *"   # يشغل كل ساعة
-  workflow_dispatch:      # لتشغيل يدوي أيضًا
+    - cron: "0 * * * *"   # ⏰ يشغل السكريبت كل ساعة (توقيت UTC)
+  workflow_dispatch:      # 🧭 لتشغيل يدوي من GitHub
 
 jobs:
-  build:
+  update-epg:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: 📦 Checkout repository
+        uses: actions/checkout@v4
 
-      - name: Set up Python
+      - name: 🐍 Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Install dependencies
-        run: |
-          pip install --upgrade pip
-
-      - name: 🔁 Running EPG update script
+      - name: 🔁 Run EPG update script
         run: |
           echo "🔁 Running EPG update script..."
           python epg_update.py
 
-      - name: Commit and push changes
+      - name: 💾 Commit and push EPG file
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
