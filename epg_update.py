@@ -1,5 +1,4 @@
 import datetime
-import time
 
 def generate_epg():
     now = datetime.datetime.now(datetime.UTC)
@@ -52,7 +51,5 @@ def generate_epg():
 
     print(f"✅ epg.xml updated successfully at {now.strftime('%Y-%m-%d %H:%M:%S UTC')}")
 
-# حلقة التكرار كل ساعة
-while True:
-    generate_epg()
-    time.sleep(3600)  # انتظر ساعة (3600 ثانية)
+# تشغيل مرة واحدة فقط
+generate_epg()
