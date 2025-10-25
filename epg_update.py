@@ -2,7 +2,7 @@ import datetime
 import time
 
 def generate_epg():
-    now = datetime.datetime.utcnow()
+    now = datetime.datetime.now(datetime.UTC)
     start = now.replace(minute=0, second=0, microsecond=0)
     stop = start + datetime.timedelta(hours=1)
 
