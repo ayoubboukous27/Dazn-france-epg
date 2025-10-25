@@ -19,17 +19,137 @@
     <url>https://www.dazn.com/fr-FR</url>
   </channel>
 
-  <programme start="20251025170000 +0000" stop="20251025180000 +0000" channel="DAZN.fr1@Europe">
+  <programme start="20251025000000 +0000" stop="20251025080000 +0000" channel="DAZN.fr1@Europe">
     <title lang="fr">Serie A sur DAZN France 1</title>
     <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 1.</desc>
   </programme>
 
-  <programme start="20251025170000 +0000" stop="20251025180000 +0000" channel="DAZN.fr2@Europe">
+  <programme start="20251025000000 +0000" stop="20251025080000 +0000" channel="DAZN.fr2@Europe">
     <title lang="fr">Serie A sur DAZN France 2</title>
     <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 2.</desc>
   </programme>
 
-  <programme start="20251025170000 +0000" stop="20251025180000 +0000" channel="DAZN.fr3@Europe">
+  <programme start="20251025000000 +0000" stop="20251025080000 +0000" channel="DAZN.fr3@Europe">
+    <title lang="fr">Serie A sur DAZN France 3</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 3.</desc>
+  </programme>
+
+  <programme start="20251025080000 +0000" stop="20251025160000 +0000" channel="DAZN.fr1@Europe">
+    <title lang="fr">Serie A sur DAZN France 1</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 1.</desc>
+  </programme>
+
+  <programme start="20251025080000 +0000" stop="20251025160000 +0000" channel="DAZN.fr2@Europe">
+    <title lang="fr">Serie A sur DAZN France 2</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 2.</desc>
+  </programme>
+
+  <programme start="20251025080000 +0000" stop="20251025160000 +0000" channel="DAZN.fr3@Europe">
+    <title lang="fr">Serie A sur DAZN France 3</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 3.</desc>
+  </programme>
+
+  <programme start="20251025160000 +0000" stop="20251026000000 +0000" channel="DAZN.fr1@Europe">
+    <title lang="fr">Serie A sur DAZN France 1</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 1.</desc>
+  </programme>
+
+  <programme start="20251025160000 +0000" stop="20251026000000 +0000" channel="DAZN.fr2@Europe">
+    <title lang="fr">Serie A sur DAZN France 2</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 2.</desc>
+  </programme>
+
+  <programme start="20251025160000 +0000" stop="20251026000000 +0000" channel="DAZN.fr3@Europe">
+    <title lang="fr">Serie A sur DAZN France 3</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 3.</desc>
+  </programme>
+
+  <programme start="20251026000000 +0000" stop="20251026080000 +0000" channel="DAZN.fr1@Europe">
+    <title lang="fr">Serie A sur DAZN France 1</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 1.</desc>
+  </programme>
+
+  <programme start="20251026000000 +0000" stop="20251026080000 +0000" channel="DAZN.fr2@Europe">
+    <title lang="fr">Serie A sur DAZN France 2</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 2.</desc>
+  </programme>
+
+  <programme start="20251026000000 +0000" stop="20251026080000 +0000" channel="DAZN.fr3@Europe">
+    <title lang="fr">Serie A sur DAZN France 3</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 3.</desc>
+  </programme>
+
+  <programme start="20251026080000 +0000" stop="20251026160000 +0000" channel="DAZN.fr1@Europe">
+    <title lang="fr">Serie A sur DAZN France 1</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 1.</desc>
+  </programme>
+
+  <programme start="20251026080000 +0000" stop="20251026160000 +0000" channel="DAZN.fr2@Europe">
+    <title lang="fr">Serie A sur DAZN France 2</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 2.</desc>
+  </programme>
+
+  <programme start="20251026080000 +0000" stop="20251026160000 +0000" channel="DAZN.fr3@Europe">
+    <title lang="fr">Serie A sur DAZN France 3</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 3.</desc>
+  </programme>
+
+  <programme start="20251026160000 +0000" stop="20251027000000 +0000" channel="DAZN.fr1@Europe">
+    <title lang="fr">Serie A sur DAZN France 1</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 1.</desc>
+  </programme>
+
+  <programme start="20251026160000 +0000" stop="20251027000000 +0000" channel="DAZN.fr2@Europe">
+    <title lang="fr">Serie A sur DAZN France 2</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 2.</desc>
+  </programme>
+
+  <programme start="20251026160000 +0000" stop="20251027000000 +0000" channel="DAZN.fr3@Europe">
+    <title lang="fr">Serie A sur DAZN France 3</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 3.</desc>
+  </programme>
+
+  <programme start="20251027000000 +0000" stop="20251027080000 +0000" channel="DAZN.fr1@Europe">
+    <title lang="fr">Serie A sur DAZN France 1</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 1.</desc>
+  </programme>
+
+  <programme start="20251027000000 +0000" stop="20251027080000 +0000" channel="DAZN.fr2@Europe">
+    <title lang="fr">Serie A sur DAZN France 2</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 2.</desc>
+  </programme>
+
+  <programme start="20251027000000 +0000" stop="20251027080000 +0000" channel="DAZN.fr3@Europe">
+    <title lang="fr">Serie A sur DAZN France 3</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 3.</desc>
+  </programme>
+
+  <programme start="20251027080000 +0000" stop="20251027160000 +0000" channel="DAZN.fr1@Europe">
+    <title lang="fr">Serie A sur DAZN France 1</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 1.</desc>
+  </programme>
+
+  <programme start="20251027080000 +0000" stop="20251027160000 +0000" channel="DAZN.fr2@Europe">
+    <title lang="fr">Serie A sur DAZN France 2</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 2.</desc>
+  </programme>
+
+  <programme start="20251027080000 +0000" stop="20251027160000 +0000" channel="DAZN.fr3@Europe">
+    <title lang="fr">Serie A sur DAZN France 3</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 3.</desc>
+  </programme>
+
+  <programme start="20251027160000 +0000" stop="20251028000000 +0000" channel="DAZN.fr1@Europe">
+    <title lang="fr">Serie A sur DAZN France 1</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 1.</desc>
+  </programme>
+
+  <programme start="20251027160000 +0000" stop="20251028000000 +0000" channel="DAZN.fr2@Europe">
+    <title lang="fr">Serie A sur DAZN France 2</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 2.</desc>
+  </programme>
+
+  <programme start="20251027160000 +0000" stop="20251028000000 +0000" channel="DAZN.fr3@Europe">
     <title lang="fr">Serie A sur DAZN France 3</title>
     <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 3.</desc>
   </programme>
