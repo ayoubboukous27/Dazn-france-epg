@@ -2,54 +2,55 @@ import datetime
 
 def generate_epg():
     now = datetime.datetime.now(datetime.UTC)
-    start = now.replace(minute=0, second=0, microsecond=0)
-    stop = start + datetime.timedelta(hours=1)
 
-    start_str = start.strftime("%Y%m%d%H%M%S +0000")
-    stop_str = stop.strftime("%Y%m%d%H%M%S +0000")
-
-    epg = f'''<?xml version="1.0" encoding="UTF-8"?>
+    epg = '''<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="ChatGPT EPG Generator">
+'''
 
-  <channel id="DAZN.fr1@Europe">
-    <display-name>DAZN France 1</display-name>
-    <icon src="https://i.postimg.cc/k4kLn7KJ/dazn-1-fr-be.png" />
+    channels = [
+        ("DAZN.fr1@Europe", "DAZN France 1", "https://i.postimg.cc/k4kLn7KJ/dazn-1-fr-be.png"),
+        ("DAZN.fr2@Europe", "DAZN France 2", "https://i.postimg.cc/CLp9XLFT/dazn-2-fr-be.png"),
+        ("DAZN.fr3@Europe", "DAZN France 3", "https://i.postimg.cc/CxmtRGk4/dazn-3-fr-be.png"),
+    ]
+
+    # --- القنوات ---
+    for ch_id, name, logo in channels:
+        epg += f'''
+  <channel id="{ch_id}">
+    <display-name>{name}</display-name>
+    <icon src="{logo}" />
     <url>https://www.dazn.com/fr-FR</url>
   </channel>
+'''
 
-  <channel id="DAZN.fr2@Europe">
-    <display-name>DAZN France 2</display-name>
-    <icon src="https://i.postimg.cc/CLp9XLFT/dazn-2-fr-be.png" />
-    <url>https://www.dazn.com/fr-FR</url>
-  </channel>
+    # --- البرامج لكل 8 ساعات ولمدة 3 أيام ---
+    hours_per_block = 8
+    total_days = 3
+    total_blocks = 24 // hours_per_block
 
-  <channel id="DAZN.fr3@Europe">
-    <display-name>DAZN France 3</display-name>
-    <icon src="https://i.postimg.cc/CxmtRGk4/dazn-3-fr-be.png" />
-    <url>https://www.dazn.com/fr-FR</url>
-  </channel>
+    for day_offset in range(total_days):
+        day_start = now.replace(hour=0, minute=0, second=0, microsecond=0) + datetime.timedelta(days=day_offset)
 
-  <programme start="{start_str}" stop="{stop_str}" channel="DAZN.fr1@Europe">
-    <title lang="fr">Serie A sur DAZN France 1</title>
-    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 1.</desc>
+        for block in range(total_blocks):
+            start = day_start + datetime.timedelta(hours=block * hours_per_block)
+            stop = start + datetime.timedelta(hours=hours_per_block)
+
+            start_str = start.strftime("%Y%m%d%H%M%S +0000")
+            stop_str = stop.strftime("%Y%m%d%H%M%S +0000")
+
+            for ch_id, name, _ in channels:
+                epg += f'''
+  <programme start="{start_str}" stop="{stop_str}" channel="{ch_id}">
+    <title lang="fr">Serie A sur {name}</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur {name}.</desc>
   </programme>
+'''
 
-  <programme start="{start_str}" stop="{stop_str}" channel="DAZN.fr2@Europe">
-    <title lang="fr">Serie A sur DAZN France 2</title>
-    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 2.</desc>
-  </programme>
-
-  <programme start="{start_str}" stop="{stop_str}" channel="DAZN.fr3@Europe">
-    <title lang="fr">Serie A sur DAZN France 3</title>
-    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 3.</desc>
-  </programme>
-
-</tv>'''
+    epg += "\n</tv>"
 
     with open("epg.xml", "w", encoding="utf-8") as f:
         f.write(epg)
 
-    print(f"✅ epg.xml updated successfully at {now.strftime('%Y-%m-%d %H:%M:%S UTC')}")
+    print(f"✅ epg.xml generated for 3 days (8-hour blocks) at {now.strftime('%Y-%m-%d %H:%M:%S UTC')}")
 
-# تشغيل مرة واحدة فقط
 generate_epg()
