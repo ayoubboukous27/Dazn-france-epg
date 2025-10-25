@@ -1,12 +1,9 @@
-name: Update EPG Daily
+name: Dazn France EPG Auto Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # كل يوم عند منتصف الليل UTC
-  workflow_dispatch:
-
-permissions:
-  contents: write  # ضروري للسماح بـ git push
+    - cron: "0 * * * *"   # يشغل كل ساعة
+  workflow_dispatch:      # لتشغيل يدوي أيضًا
 
 jobs:
   build:
@@ -14,28 +11,26 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: false  # نستخدم التوكن لاحقًا بشكل يدوي
+        uses: actions/checkout@v3
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
+          python-version: "3.12"
 
-      - name: Run EPG generator
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+
+      - name: 🔁 Running EPG update script
         run: |
           echo "🔁 Running EPG update script..."
           python epg_update.py
-          ls -lh epg.xml || echo "⚠️ File not found!"
 
       - name: Commit and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          echo "🚀 Committing and pushing changes..."
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add epg.xml || true
-          git commit -m "Auto-update EPG file $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes to commit"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref_name }}
+          git add epg.xml
+          git commit -m "🕒 Auto-update EPG ($(date -u '+%Y-%m-%d %H:%M:%S UTC'))" || echo "No changes to commit"
+          git push
