@@ -1,13 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="ChatGPT EPG Generator">
-  <channel id="DAZN.fr@Europe">
-    <display-name>DAZN France</display-name>
-    <icon src="https://i.postimg.cc/J0G130V3/Picsart-25-10-04-13-20-21-280.png" />
+
+  <channel id="DAZN.fr1@Europe">
+    <display-name>DAZN France 1</display-name>
+    <icon src="https://i.postimg.cc/k4kLn7KJ/dazn-1-fr-be.png" />
     <url>https://www.dazn.com/fr-FR</url>
   </channel>
 
-  <programme start="20251025000000 +0000" stop="20251025235959 +0000" channel="DAZN.fr@Europe">
-    <title lang="fr">Serie A sur DAZN France</title>
-    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France.</desc>
+  <channel id="DAZN.fr2@Europe">
+    <display-name>DAZN France 2</display-name>
+    <icon src="https://i.postimg.cc/CLp9XLFT/dazn-2-fr-be.png" />
+    <url>https://www.dazn.com/fr-FR</url>
+  </channel>
+
+  <channel id="DAZN.fr3@Europe">
+    <display-name>DAZN France 3</display-name>
+    <icon src="https://i.postimg.cc/CxmtRGk4/dazn-3-fr-be.png" />
+    <url>https://www.dazn.com/fr-FR</url>
+  </channel>
+
+  <programme start="20251025170000 +0000" stop="20251025180000 +0000" channel="DAZN.fr1@Europe">
+    <title lang="fr">Serie A sur DAZN France 1</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 1.</desc>
   </programme>
+
+  <programme start="20251025170000 +0000" stop="20251025180000 +0000" channel="DAZN.fr2@Europe">
+    <title lang="fr">Serie A sur DAZN France 2</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 2.</desc>
+  </programme>
+
+  <programme start="20251025170000 +0000" stop="20251025180000 +0000" channel="DAZN.fr3@Europe">
+    <title lang="fr">Serie A sur DAZN France 3</title>
+    <desc lang="fr">Diffusion en direct des matchs du championnat italien Serie A sur DAZN France 3.</desc>
+  </programme>
+
 </tv>
