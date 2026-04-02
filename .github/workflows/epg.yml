@@ -5,14 +5,19 @@ on:
     - cron: '0 0 * * *'  # تشغيل يوميًا الساعة 00:00 UTC
   workflow_dispatch: # لتشغيل يدوي
 
+permissions:
+  contents: write  # ✅ هذا يعطي صلاحية الكتابة على الريبو
+
 jobs:
   update-epg:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout repository
+      # 1️⃣ Checkout repository مع تمكين الكتابة
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true  # يسمح للـ git push باستخدام GITHUB_TOKEN
 
       # 2️⃣ Setup Python
       - name: Set up Python
@@ -28,10 +33,10 @@ jobs:
 
       # 4️⃣ Run the EPG script
       - name: Run EPG script
-        run: python epg_dazn_multi.py
+        run: python epg_dazn_fr.py
 
-      # 5️⃣ Commit & push epg.xml باستخدام write
-      - name: Commit and push EPG
+      # 5️⃣ Commit & push epg.xml ← هذه هي خطوة write
+      - name: Commit & push EPG
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "action@github.com"
