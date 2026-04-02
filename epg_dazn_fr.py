@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 # الإعدادات
 # -------------------------
 API_KEY = "509ceffac75b4189b4c0e129e35941bb"
-COMPETITION = "SA"  # Serie A - يمكنك تغييره لأي دوري آخر
+COMPETITION = "SA"  # Serie A
 NUM_DAYS = 20
 
 CHANNELS = [
@@ -14,6 +14,7 @@ CHANNELS = [
 ]
 
 DEFAULT_PROGRAM_TITLE = "Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts"
+POSTER_URL = "https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg"
 HEADERS = {"X-Auth-Token": API_KEY}
 
 # -------------------------
@@ -71,8 +72,8 @@ for day_offset in range(NUM_DAYS):
             ET.SubElement(prog, "title").text = title
             ET.SubElement(prog, "desc").text = desc
             ET.SubElement(prog, "icon", src=ch["logo"])
-            ET.SubElement(prog, "poster", src=ch["logo"])
-            ET.SubElement(prog, "banner", src=ch["logo"])
+            ET.SubElement(prog, "poster", src=POSTER_URL)   # ← Poster مضاف
+            ET.SubElement(prog, "banner", src=POSTER_URL)   # ← Banner مضاف
 
         # البرنامج الوهمي كل ساعة ما عدا وقت المباريات
         for hour in range(0, 24):
@@ -87,8 +88,8 @@ for day_offset in range(NUM_DAYS):
                 ET.SubElement(prog, "title").text = DEFAULT_PROGRAM_TITLE
                 ET.SubElement(prog, "desc").text = f"Couverture complète de la Serie A pour {ch['name']}. Résumés, Analyse et Commentaire d'Experts."
                 ET.SubElement(prog, "icon", src=ch["logo"])
-                ET.SubElement(prog, "poster", src=ch["logo"])
-                ET.SubElement(prog, "banner", src=ch["logo"])
+                ET.SubElement(prog, "poster", src=POSTER_URL)  # ← Poster مضاف
+                ET.SubElement(prog, "banner", src=POSTER_URL)  # ← Banner مضاف
 
 # -------------------------
 # حفظ XML
@@ -96,4 +97,4 @@ for day_offset in range(NUM_DAYS):
 tree = ET.ElementTree(tv)
 tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
 
-print(f"تم إنشاء epg.xml لمدة {NUM_DAYS} يوم لقناة {CHANNELS[0]['name']} مع برامج وهمية ومباريات حقيقية")
+print(f"تم إنشاء epg.xml لمدة {NUM_DAYS} يوم لقناة {CHANNELS[0]['name']} مع بوستر لجميع البرامج")
