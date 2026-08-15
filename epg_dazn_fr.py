@@ -42,7 +42,7 @@ CHANNELS = [
 ]
 
 # -------------------------
-# سحب المباريات لكل مسابقة (مرة وحدة لكل competition code، حتى لو استعملتها بزوج قنوات)
+# سحب المباريات لكل مسابقة (مرة وحدة لكل competition code)
 # -------------------------
 matches_by_competition = {}
 for competition in {ch["competition"] for ch in CHANNELS}:
@@ -61,68 +61,72 @@ for competition in {ch["competition"] for ch in CHANNELS}:
 # -------------------------
 tv = ET.Element("tv")
 
-# تعريف القنوات
 for ch in CHANNELS:
     channel = ET.SubElement(tv, "channel", id=ch["id"])
     ET.SubElement(channel, "display-name").text = ch["name"]
     ET.SubElement(channel, "icon", src=ch["logo"])
 
+
+def add_programme(channel_id, start_dt, stop_dt, title, desc, logo, poster):
+    prog = ET.SubElement(tv, "programme", {
+        "channel": channel_id,
+        "start": start_dt.strftime("%Y%m%d%H%M%S +0000"),
+        "stop": stop_dt.strftime("%Y%m%d%H%M%S +0000"),
+    })
+    ET.SubElement(prog, "title").text = title
+    ET.SubElement(prog, "desc").text = desc
+    ET.SubElement(prog, "icon", src=logo)
+    ET.SubElement(prog, "poster", src=poster)
+    ET.SubElement(prog, "banner", src=poster)
+
+
+def add_filler(channel_id, cursor, end_dt, ch):
+    """يعمر الفراغ بين cursor و end_dt ببلوكات ساعة وحدة (أو أقل فالبلوك الأخير)، بلا أي تداخل ولا فراغ."""
+    desc = f"Couverture complète de {ch['league_label']} sur {ch['name']}. Résumés, Analyse et Commentaire d'Experts."
+    while cursor < end_dt:
+        block_stop = min(cursor + timedelta(hours=1), end_dt)
+        add_programme(channel_id, cursor, block_stop, ch["default_title"], desc, ch["logo"], ch["poster"])
+        cursor = block_stop
+    return cursor
+
+
 today = datetime.utcnow()
+timeline_start = datetime(today.year, today.month, today.day)  # منتصف الليل اليوم (00:00 UTC)
+timeline_end = timeline_start + timedelta(days=NUM_DAYS)
 
 # -------------------------
-# بناء البرامج اليومية لكل قناة
+# بناء خط زمني متواصل لكل قناة (بلا تداخل وبلا فراغ)
 # -------------------------
 for ch in CHANNELS:
     matches = matches_by_competition[ch["competition"]]
 
-    for day_offset in range(NUM_DAYS):
-        current_date = today + timedelta(days=day_offset)
-        date_str = current_date.strftime("%Y-%m-%d")
-
-        # فلترة مباريات هذا اليوم لهاذ المسابقة
-        day_matches = [m for m in matches if m["utcDate"].startswith(date_str)]
-        day_matches.sort(key=lambda m: m["utcDate"])
-
-        # ساعات المباريات الفعلية (باش نتفاداو التعارض مع البرنامج الافتراضي)
-        busy_hours = []
-        for match in day_matches:
-            match_start = datetime.strptime(match["utcDate"], "%Y-%m-%dT%H:%M:%SZ")
-            for hour in range(match_start.hour, match_start.hour + 2):
-                busy_hours.append(hour % 24)
-
-        # المباريات الحقيقية
-        for match in day_matches:
-            start_dt = datetime.strptime(match["utcDate"], "%Y-%m-%dT%H:%M:%SZ")
+    # تحضير المباريات ضمن المدة الزمنية المطلوبة، مرتبة حسب وقت البداية
+    parsed_matches = []
+    for match in matches:
+        start_dt = datetime.strptime(match["utcDate"], "%Y-%m-%dT%H:%M:%SZ")
+        if timeline_start <= start_dt < timeline_end:
             stop_dt = start_dt + timedelta(hours=2)
-            title = f"{match['homeTeam']['name']} vs {match['awayTeam']['name']} - {ch['league_label']} en direct"
-            desc = f"Diffusion en direct de {match['homeTeam']['name']} contre {match['awayTeam']['name']} dans {ch['league_label']}, sur {ch['name']}."
+            parsed_matches.append((start_dt, stop_dt, match))
+    parsed_matches.sort(key=lambda x: x[0])
 
-            prog = ET.SubElement(tv, "programme", {
-                "channel": ch["id"],
-                "start": start_dt.strftime("%Y%m%d%H%M%S +0000"),
-                "stop": stop_dt.strftime("%Y%m%d%H%M%S +0000")
-            })
-            ET.SubElement(prog, "title").text = title
-            ET.SubElement(prog, "desc").text = desc
-            ET.SubElement(prog, "icon", src=ch["logo"])
-            ET.SubElement(prog, "poster", src=ch["poster"])
-            ET.SubElement(prog, "banner", src=ch["poster"])
+    cursor = timeline_start
+    for start_dt, stop_dt, match in parsed_matches:
+        # إذا كانت المباراة تبدا بعد الكيرسور الحالي، نعمر الفراغ اللي قبلها
+        if start_dt > cursor:
+            cursor = add_filler(ch["id"], cursor, start_dt, ch)
 
-        # البرنامج الافتراضي كل ساعة خارج أوقات المباريات
-        for hour in range(0, 24):
-            if hour not in busy_hours:
-                start_dt = datetime.combine(current_date.date(), datetime.min.time()) + timedelta(hours=hour)
-                stop_dt = start_dt + timedelta(hours=1)
-                prog = ET.SubElement(tv, "programme", {
-                    "channel": ch["id"],
-                    "start": start_dt.strftime("%Y%m%d%H%M%S +0000"),
-                    "stop": stop_dt.strftime("%Y%m%d%H%M%S +0000")
-                })
-                ET.SubElement(prog, "title").text = ch["default_title"]
-                ET.SubElement(prog, "desc").text = f"Couverture complète de {ch['league_label']} sur {ch['name']}. Résumés, Analyse et Commentaire d'Experts."
-                ET.SubElement(prog, "icon", src=ch["logo"])
-                ET.SubElement(prog, "poster", src=ch["poster"])
-                ET.SubElement(prog, "banner", src=ch["poster"])
+        # إذا كانت المباراة تبدا قبل ما يخلص الكيرسور (تداخل مع مباراة سابقة)، نتخطاها لتفادي التعارض
+        if start_dt < cursor:
+            continue
+
+        title = f"{match['homeTeam']['name']} vs {match['awayTeam']['name']} - {ch['league_label']} en direct"
+        desc = f"Diffusion en direct de {match['homeTeam']['name']} contre {match['awayTeam']['name']} dans {ch['league_label']}, sur {ch['name']}."
+        add_programme(ch["id"], start_dt, stop_dt, title, desc, ch["logo"], ch["poster"])
+        cursor = stop_dt
+
+    # نعمر الفراغ الأخير لغاية نهاية المدة الزمنية
+    if cursor < timeline_end:
+        add_filler(ch["id"], cursor, timeline_end, ch)
 
 # -------------------------
 # حفظ XML
@@ -135,5 +139,4 @@ except AttributeError:
 tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
 
 channel_names = " و ".join(ch["name"] for ch in CHANNELS)
-print(f"تم إنشاء epg.xml لمدة {NUM_DAYS} يوم لقنوات {channel_names}")
-            
+print(f"تم إنشاء epg.xml لمدة {NUM_DAYS} يوم لقنوات {channel_names} بلا أي فراغ (Pas d'information)")
