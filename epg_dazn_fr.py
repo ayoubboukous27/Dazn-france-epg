@@ -90,17 +90,56 @@ def add_filler(channel_id, cursor, end_dt, ch):
     return cursor
 
 
+def build_match_clusters(parsed_matches):
+    """
+    يجمع المباريات المتداخلة/المتزامنة زمنيا فـ cluster واحد.
+    كل cluster = (cluster_start, cluster_end, [قائمة المباريات]).
+    """
+    clusters = []
+    for start_dt, stop_dt, match in parsed_matches:
+        if clusters and start_dt < clusters[-1]["end"]:
+            # فيه تداخل زمني مع آخر cluster -> ندمجها
+            clusters[-1]["end"] = max(clusters[-1]["end"], stop_dt)
+            clusters[-1]["matches"].append((start_dt, stop_dt, match))
+        else:
+            clusters.append({
+                "start": start_dt,
+                "end": stop_dt,
+                "matches": [(start_dt, stop_dt, match)],
+            })
+    return clusters
+
+
+def format_cluster_programme(cluster, ch):
+    matches = cluster["matches"]
+    if len(matches) == 1:
+        start_dt, stop_dt, match = matches[0]
+        title = f"{match['homeTeam']['name']} vs {match['awayTeam']['name']} - {ch['league_label']} en direct"
+        desc = f"Diffusion en direct de {match['homeTeam']['name']} contre {match['awayTeam']['name']} dans {ch['league_label']}, sur {ch['name']}."
+        return title, desc
+
+    # عدة مباريات فنفس الوقت -> برنامج واحد "Multiplex" منسق بطريقة جميلة
+    n = len(matches)
+    title = f"Multiplex {ch['league_label']} - {n} matchs en direct sur {ch['name']}"
+
+    lines = [f"⚽ {n} rencontres de {ch['league_label']} en direct simultané sur {ch['name']} :", ""]
+    for start_dt, stop_dt, match in sorted(matches, key=lambda x: x[0]):
+        heure = start_dt.strftime("%Hh%M")
+        lines.append(f"• {heure} — {match['homeTeam']['name']} vs {match['awayTeam']['name']}")
+    desc = "\n".join(lines)
+    return title, desc
+
+
 today = datetime.utcnow()
 timeline_start = datetime(today.year, today.month, today.day)  # منتصف الليل اليوم (00:00 UTC)
 timeline_end = timeline_start + timedelta(days=NUM_DAYS)
 
 # -------------------------
-# بناء خط زمني متواصل لكل قناة (بلا تداخل وبلا فراغ)
+# بناء خط زمني متواصل لكل قناة (بلا تداخل وبلا فراغ)، مع دمج المباريات المتزامنة
 # -------------------------
 for ch in CHANNELS:
     matches = matches_by_competition[ch["competition"]]
 
-    # تحضير المباريات ضمن المدة الزمنية المطلوبة، مرتبة حسب وقت البداية
     parsed_matches = []
     for match in matches:
         start_dt = datetime.strptime(match["utcDate"], "%Y-%m-%dT%H:%M:%SZ")
@@ -109,22 +148,17 @@ for ch in CHANNELS:
             parsed_matches.append((start_dt, stop_dt, match))
     parsed_matches.sort(key=lambda x: x[0])
 
+    clusters = build_match_clusters(parsed_matches)
+
     cursor = timeline_start
-    for start_dt, stop_dt, match in parsed_matches:
-        # إذا كانت المباراة تبدا بعد الكيرسور الحالي، نعمر الفراغ اللي قبلها
-        if start_dt > cursor:
-            cursor = add_filler(ch["id"], cursor, start_dt, ch)
+    for cluster in clusters:
+        if cluster["start"] > cursor:
+            cursor = add_filler(ch["id"], cursor, cluster["start"], ch)
 
-        # إذا كانت المباراة تبدا قبل ما يخلص الكيرسور (تداخل مع مباراة سابقة)، نتخطاها لتفادي التعارض
-        if start_dt < cursor:
-            continue
+        title, desc = format_cluster_programme(cluster, ch)
+        add_programme(ch["id"], cluster["start"], cluster["end"], title, desc, ch["logo"], ch["poster"])
+        cursor = cluster["end"]
 
-        title = f"{match['homeTeam']['name']} vs {match['awayTeam']['name']} - {ch['league_label']} en direct"
-        desc = f"Diffusion en direct de {match['homeTeam']['name']} contre {match['awayTeam']['name']} dans {ch['league_label']}, sur {ch['name']}."
-        add_programme(ch["id"], start_dt, stop_dt, title, desc, ch["logo"], ch["poster"])
-        cursor = stop_dt
-
-    # نعمر الفراغ الأخير لغاية نهاية المدة الزمنية
     if cursor < timeline_end:
         add_filler(ch["id"], cursor, timeline_end, ch)
 
@@ -139,4 +173,4 @@ except AttributeError:
 tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
 
 channel_names = " و ".join(ch["name"] for ch in CHANNELS)
-print(f"تم إنشاء epg.xml لمدة {NUM_DAYS} يوم لقنوات {channel_names} بلا أي فراغ (Pas d'information)")
+print(f"تم إنشاء epg.xml لمدة {NUM_DAYS} يوم لقنوات {channel_names} - مباريات متزامنة مدموجة، بلا فراغات")
