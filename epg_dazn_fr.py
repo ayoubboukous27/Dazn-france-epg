@@ -6,24 +6,55 @@ from datetime import datetime, timedelta
 # الإعدادات
 # -------------------------
 API_KEY = "509ceffac75b4189b4c0e129e35941bb"
-COMPETITION = "SA"  # Serie A
 NUM_DAYS = 20
-
-CHANNELS = [
-    {"id": "daznfr", "name": "DAZN France", "logo": "https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png"}
-]
-
-DEFAULT_PROGRAM_TITLE = "Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts"
-POSTER_URL = "https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg"
 HEADERS = {"X-Auth-Token": API_KEY}
 
+# كل قناة مرتبطة بمسابقة (competition code في football-data.org)
+# SA = Serie A | PD = LaLiga (Primera División)
+CHANNELS = [
+    {
+        "id": "daznseriea",
+        "name": "DAZN Serie A",
+        "competition": "SA",
+        "logo": "https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png",
+        "poster": "https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg",
+        "league_label": "Serie A",
+        "default_title": "Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts",
+    },
+    {
+        "id": "daznlaliga",
+        "name": "DAZN LaLiga",
+        "competition": "PD",
+        "logo": "https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png",
+        "poster": "https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png",
+        "league_label": "LaLiga",
+        "default_title": "Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts",
+    },
+    {
+        "id": "disneypluslaliga",
+        "name": "Disney+ LaLiga",
+        "competition": "PD",
+        "logo": "https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png",
+        "poster": "https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png",
+        "league_label": "LaLiga",
+        "default_title": "Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts",
+    },
+]
+
 # -------------------------
-# سحب جميع المباريات القادمة
+# سحب المباريات لكل مسابقة (مرة وحدة لكل competition code، حتى لو استعملتها بزوج قنوات)
 # -------------------------
-url = f"https://api.football-data.org/v4/competitions/{COMPETITION}/matches?status=SCHEDULED"
-response = requests.get(url, headers=HEADERS)
-data = response.json()
-matches = data.get("matches", [])
+matches_by_competition = {}
+for competition in {ch["competition"] for ch in CHANNELS}:
+    url = f"https://api.football-data.org/v4/competitions/{competition}/matches?status=SCHEDULED"
+    try:
+        response = requests.get(url, headers=HEADERS, timeout=15)
+        response.raise_for_status()
+        data = response.json()
+        matches_by_competition[competition] = data.get("matches", [])
+    except requests.exceptions.RequestException as e:
+        print(f"خطأ أثناء الاتصال بـ API لمسابقة {competition}: {e}")
+        matches_by_competition[competition] = []
 
 # -------------------------
 # إنشاء XMLTV
@@ -41,28 +72,30 @@ today = datetime.utcnow()
 # -------------------------
 # بناء البرامج اليومية لكل قناة
 # -------------------------
-for day_offset in range(NUM_DAYS):
-    current_date = today + timedelta(days=day_offset)
-    date_str = current_date.strftime("%Y-%m-%d")
+for ch in CHANNELS:
+    matches = matches_by_competition[ch["competition"]]
 
-    # فلترة المباريات لهذا اليوم
-    day_matches = [m for m in matches if m["utcDate"].startswith(date_str)]
-    day_matches.sort(key=lambda m: m["utcDate"])
+    for day_offset in range(NUM_DAYS):
+        current_date = today + timedelta(days=day_offset)
+        date_str = current_date.strftime("%Y-%m-%d")
 
-    # قائمة ساعات المباريات الفعلية
-    busy_hours = []
-    for match in day_matches:
-        match_start = datetime.strptime(match["utcDate"], "%Y-%m-%dT%H:%M:%SZ")
-        for hour in range(match_start.hour, match_start.hour + 2):  # نفترض كل مباراة ساعتين
-            busy_hours.append(hour)
+        # فلترة مباريات هذا اليوم لهاذ المسابقة
+        day_matches = [m for m in matches if m["utcDate"].startswith(date_str)]
+        day_matches.sort(key=lambda m: m["utcDate"])
 
-    for ch in CHANNELS:
+        # ساعات المباريات الفعلية (باش نتفاداو التعارض مع البرنامج الافتراضي)
+        busy_hours = []
+        for match in day_matches:
+            match_start = datetime.strptime(match["utcDate"], "%Y-%m-%dT%H:%M:%SZ")
+            for hour in range(match_start.hour, match_start.hour + 2):
+                busy_hours.append(hour % 24)
+
         # المباريات الحقيقية
         for match in day_matches:
             start_dt = datetime.strptime(match["utcDate"], "%Y-%m-%dT%H:%M:%SZ")
             stop_dt = start_dt + timedelta(hours=2)
-            title = f"{match['homeTeam']['name']} vs {match['awayTeam']['name']} - Serie A en direct"
-            desc = f"Diffusion en direct de {match['homeTeam']['name']} contre {match['awayTeam']['name']} dans la Serie A."
+            title = f"{match['homeTeam']['name']} vs {match['awayTeam']['name']} - {ch['league_label']} en direct"
+            desc = f"Diffusion en direct de {match['homeTeam']['name']} contre {match['awayTeam']['name']} dans {ch['league_label']}, sur {ch['name']}."
 
             prog = ET.SubElement(tv, "programme", {
                 "channel": ch["id"],
@@ -72,10 +105,10 @@ for day_offset in range(NUM_DAYS):
             ET.SubElement(prog, "title").text = title
             ET.SubElement(prog, "desc").text = desc
             ET.SubElement(prog, "icon", src=ch["logo"])
-            ET.SubElement(prog, "poster", src=POSTER_URL)   # ← Poster مضاف
-            ET.SubElement(prog, "banner", src=POSTER_URL)   # ← Banner مضاف
+            ET.SubElement(prog, "poster", src=ch["poster"])
+            ET.SubElement(prog, "banner", src=ch["poster"])
 
-        # البرنامج الوهمي كل ساعة ما عدا وقت المباريات
+        # البرنامج الافتراضي كل ساعة خارج أوقات المباريات
         for hour in range(0, 24):
             if hour not in busy_hours:
                 start_dt = datetime.combine(current_date.date(), datetime.min.time()) + timedelta(hours=hour)
@@ -85,16 +118,22 @@ for day_offset in range(NUM_DAYS):
                     "start": start_dt.strftime("%Y%m%d%H%M%S +0000"),
                     "stop": stop_dt.strftime("%Y%m%d%H%M%S +0000")
                 })
-                ET.SubElement(prog, "title").text = DEFAULT_PROGRAM_TITLE
-                ET.SubElement(prog, "desc").text = f"Couverture complète de la Serie A pour {ch['name']}. Résumés, Analyse et Commentaire d'Experts."
+                ET.SubElement(prog, "title").text = ch["default_title"]
+                ET.SubElement(prog, "desc").text = f"Couverture complète de {ch['league_label']} sur {ch['name']}. Résumés, Analyse et Commentaire d'Experts."
                 ET.SubElement(prog, "icon", src=ch["logo"])
-                ET.SubElement(prog, "poster", src=POSTER_URL)  # ← Poster مضاف
-                ET.SubElement(prog, "banner", src=POSTER_URL)  # ← Banner مضاف
+                ET.SubElement(prog, "poster", src=ch["poster"])
+                ET.SubElement(prog, "banner", src=ch["poster"])
 
 # -------------------------
 # حفظ XML
 # -------------------------
 tree = ET.ElementTree(tv)
+try:
+    ET.indent(tree, space="  ")  # تنسيق أنيق (Python 3.9+)
+except AttributeError:
+    pass
 tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
 
-print(f"تم إنشاء epg.xml لمدة {NUM_DAYS} يوم لقناة {CHANNELS[0]['name']} مع بوستر لجميع البرامج")
+channel_names = " و ".join(ch["name"] for ch in CHANNELS)
+print(f"تم إنشاء epg.xml لمدة {NUM_DAYS} يوم لقنوات {channel_names}")
+            
