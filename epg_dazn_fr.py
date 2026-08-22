@@ -118,15 +118,16 @@ def format_cluster_programme(cluster, ch):
         desc = f"Diffusion en direct de {match['homeTeam']['name']} contre {match['awayTeam']['name']} dans {ch['league_label']}, sur {ch['name']}."
         return title, desc
 
-    # عدة مباريات فنفس الوقت -> برنامج واحد "Multiplex" منسق بطريقة جميلة
+    # عدة مباريات فنفس الوقت -> برنامج واحد "Multiplex"، المباريات مفصولة بـ "et" (سطر واحد، بلا قطع)
     n = len(matches)
-    title = f"Multiplex {ch['league_label']} - {n} matchs en direct sur {ch['name']}"
+    sorted_matches = sorted(matches, key=lambda x: x[0])
+    matchups = " et ".join(
+        f"{match['homeTeam']['name']} vs {match['awayTeam']['name']}"
+        for _, _, match in sorted_matches
+    )
 
-    lines = [f"⚽ {n} rencontres de {ch['league_label']} en direct simultané sur {ch['name']} :", ""]
-    for start_dt, stop_dt, match in sorted(matches, key=lambda x: x[0]):
-        heure = start_dt.strftime("%Hh%M")
-        lines.append(f"• {heure} — {match['homeTeam']['name']} vs {match['awayTeam']['name']}")
-    desc = "\n".join(lines)
+    title = f"Multiplex {ch['league_label']} : {matchups}"
+    desc = f"Multiplex {ch['league_label']} sur {ch['name']} - {n} rencontres en direct simultané : {matchups}."
     return title, desc
 
 
