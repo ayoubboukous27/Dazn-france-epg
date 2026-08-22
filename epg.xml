@@ -124,24 +124,21 @@
     <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
     <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznseriea" start="20260822160000 +0000" stop="20260822163000 +0000">
+  <programme channel="daznseriea" start="20260822160000 +0000" stop="20260822170000 +0000">
     <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
     <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
     <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
     <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznseriea" start="20260822163000 +0000" stop="20260822183000 +0000">
-    <title>Multiplex Serie A - 2 matchs en direct sur DAZN Serie A</title>
-    <desc>⚽ 2 rencontres de Serie A en direct simultané sur DAZN Serie A :
-
-• 16h30 — Udinese Calcio vs Como 1907
-• 16h30 — FC Internazionale Milano vs AC Monza</desc>
+  <programme channel="daznseriea" start="20260822170000 +0000" stop="20260822180000 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
     <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
     <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznseriea" start="20260822183000 +0000" stop="20260822184500 +0000">
+  <programme channel="daznseriea" start="20260822180000 +0000" stop="20260822184500 +0000">
     <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
     <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
@@ -149,11 +146,8 @@
     <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
   <programme channel="daznseriea" start="20260822184500 +0000" stop="20260822204500 +0000">
-    <title>Multiplex Serie A - 2 matchs en direct sur DAZN Serie A</title>
-    <desc>⚽ 2 rencontres de Serie A en direct simultané sur DAZN Serie A :
-
-• 18h45 — Genoa CFC vs SSC Napoli
-• 18h45 — Parma Calcio 1913 vs Cagliari Calcio</desc>
+    <title>Multiplex Serie A : Genoa CFC vs SSC Napoli et Parma Calcio 1913 vs Cagliari Calcio</title>
+    <desc>Multiplex Serie A sur DAZN Serie A - 2 rencontres en direct simultané : Genoa CFC vs SSC Napoli et Parma Calcio 1913 vs Cagliari Calcio.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
     <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
     <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
@@ -299,11 +293,8 @@
     <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
   <programme channel="daznseriea" start="20260823163000 +0000" stop="20260823183000 +0000">
-    <title>Multiplex Serie A - 2 matchs en direct sur DAZN Serie A</title>
-    <desc>⚽ 2 rencontres de Serie A en direct simultané sur DAZN Serie A :
-
-• 16h30 — Frosinone Calcio vs Juventus FC
-• 16h30 — Venezia FC vs US Lecce</desc>
+    <title>Multiplex Serie A : Frosinone Calcio vs Juventus FC et Venezia FC vs US Lecce</title>
+    <desc>Multiplex Serie A sur DAZN Serie A - 2 rencontres en direct simultané : Frosinone Calcio vs Juventus FC et Venezia FC vs US Lecce.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
     <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
     <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
@@ -316,11 +307,8 @@
     <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
   <programme channel="daznseriea" start="20260823184500 +0000" stop="20260823204500 +0000">
-    <title>Multiplex Serie A - 2 matchs en direct sur DAZN Serie A</title>
-    <desc>⚽ 2 rencontres de Serie A en direct simultané sur DAZN Serie A :
-
-• 18h45 — Atalanta BC vs US Sassuolo Calcio
-• 18h45 — Torino FC vs AC Milan</desc>
+    <title>Multiplex Serie A : Atalanta BC vs US Sassuolo Calcio et Torino FC vs AC Milan</title>
+    <desc>Multiplex Serie A sur DAZN Serie A - 2 rencontres en direct simultané : Atalanta BC vs US Sassuolo Calcio et Torino FC vs AC Milan.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
     <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
     <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
@@ -1292,12 +1280,8 @@
     <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
   <programme channel="daznseriea" start="20260829163000 +0000" stop="20260829183000 +0000">
-    <title>Multiplex Serie A - 3 matchs en direct sur DAZN Serie A</title>
-    <desc>⚽ 3 rencontres de Serie A en direct simultané sur DAZN Serie A :
-
-• 16h30 — US Sassuolo Calcio vs Torino FC
-• 16h30 — AC Monza vs Udinese Calcio
-• 16h30 — ACF Fiorentina vs Frosinone Calcio</desc>
+    <title>Multiplex Serie A : US Sassuolo Calcio vs Torino FC et AC Monza vs Udinese Calcio et ACF Fiorentina vs Frosinone Calcio</title>
+    <desc>Multiplex Serie A sur DAZN Serie A - 3 rencontres en direct simultané : US Sassuolo Calcio vs Torino FC et AC Monza vs Udinese Calcio et ACF Fiorentina vs Frosinone Calcio.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
     <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
     <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
@@ -1471,11 +1455,8 @@
     <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
   <programme channel="daznseriea" start="20260830184500 +0000" stop="20260830204500 +0000">
-    <title>Multiplex Serie A - 2 matchs en direct sur DAZN Serie A</title>
-    <desc>⚽ 2 rencontres de Serie A en direct simultané sur DAZN Serie A :
-
-• 18h45 — SS Lazio vs Genoa CFC
-• 18h45 — Cagliari Calcio vs FC Internazionale Milano</desc>
+    <title>Multiplex Serie A : SS Lazio vs Genoa CFC et Cagliari Calcio vs FC Internazionale Milano</title>
+    <desc>Multiplex Serie A sur DAZN Serie A - 2 rencontres en direct simultané : SS Lazio vs Genoa CFC et Cagliari Calcio vs FC Internazionale Milano.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
     <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
     <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
@@ -2580,11 +2561,8 @@
     <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
   <programme channel="daznseriea" start="20260906130000 +0000" stop="20260906150000 +0000">
-    <title>Multiplex Serie A - 2 matchs en direct sur DAZN Serie A</title>
-    <desc>⚽ 2 rencontres de Serie A en direct simultané sur DAZN Serie A :
-
-• 13h00 — Parma Calcio 1913 vs AC Monza
-• 13h00 — Frosinone Calcio vs Venezia FC</desc>
+    <title>Multiplex Serie A : Parma Calcio 1913 vs AC Monza et Frosinone Calcio vs Venezia FC</title>
+    <desc>Multiplex Serie A sur DAZN Serie A - 2 rencontres en direct simultané : Parma Calcio 1913 vs AC Monza et Frosinone Calcio vs Venezia FC.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
     <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
     <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
@@ -3415,23 +3393,37 @@
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="daznlaliga" start="20260822150000 +0000" stop="20260822170000 +0000">
-    <title>Athletic Club vs Sevilla FC - LaLiga en direct</title>
-    <desc>Diffusion en direct de Athletic Club contre Sevilla FC dans LaLiga, sur DAZN LaLiga.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-  </programme>
-  <programme channel="daznlaliga" start="20260822170000 +0000" stop="20260822173000 +0000">
+  <programme channel="daznlaliga" start="20260822150000 +0000" stop="20260822160000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
     <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="daznlaliga" start="20260822173000 +0000" stop="20260822193000 +0000">
-    <title>Valencia CF vs RC Celta de Vigo - LaLiga en direct</title>
-    <desc>Diffusion en direct de Valencia CF contre RC Celta de Vigo dans LaLiga, sur DAZN LaLiga.</desc>
+  <programme channel="daznlaliga" start="20260822160000 +0000" stop="20260822170000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+  </programme>
+  <programme channel="daznlaliga" start="20260822170000 +0000" stop="20260822180000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+  </programme>
+  <programme channel="daznlaliga" start="20260822180000 +0000" stop="20260822190000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+  </programme>
+  <programme channel="daznlaliga" start="20260822190000 +0000" stop="20260822193000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
@@ -4228,11 +4220,8 @@
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
   <programme channel="daznlaliga" start="20260827183000 +0000" stop="20260827210000 +0000">
-    <title>Multiplex LaLiga - 2 matchs en direct sur DAZN LaLiga</title>
-    <desc>⚽ 2 rencontres de LaLiga en direct simultané sur DAZN LaLiga :
-
-• 18h30 — RC Celta de Vigo vs CA Osasuna
-• 19h00 — FC Barcelona vs Athletic Club</desc>
+    <title>Multiplex LaLiga : RC Celta de Vigo vs CA Osasuna et FC Barcelona vs Athletic Club</title>
+    <desc>Multiplex LaLiga sur DAZN LaLiga - 2 rencontres en direct simultané : RC Celta de Vigo vs CA Osasuna et FC Barcelona vs Athletic Club.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
@@ -5820,11 +5809,8 @@
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
   <programme channel="daznlaliga" start="20260906163000 +0000" stop="20260906183000 +0000">
-    <title>Multiplex LaLiga - 2 matchs en direct sur DAZN LaLiga</title>
-    <desc>⚽ 2 rencontres de LaLiga en direct simultané sur DAZN LaLiga :
-
-• 16h30 — Deportivo Alavés vs CA Osasuna
-• 16h30 — Málaga CF vs Levante UD</desc>
+    <title>Multiplex LaLiga : Deportivo Alavés vs CA Osasuna et Málaga CF vs Levante UD</title>
+    <desc>Multiplex LaLiga sur DAZN LaLiga - 2 rencontres en direct simultané : Deportivo Alavés vs CA Osasuna et Málaga CF vs Levante UD.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
@@ -6634,23 +6620,37 @@
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260822150000 +0000" stop="20260822170000 +0000">
-    <title>Athletic Club vs Sevilla FC - LaLiga en direct</title>
-    <desc>Diffusion en direct de Athletic Club contre Sevilla FC dans LaLiga, sur Disney+ LaLiga.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-  </programme>
-  <programme channel="disneypluslaliga" start="20260822170000 +0000" stop="20260822173000 +0000">
+  <programme channel="disneypluslaliga" start="20260822150000 +0000" stop="20260822160000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
     <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260822173000 +0000" stop="20260822193000 +0000">
-    <title>Valencia CF vs RC Celta de Vigo - LaLiga en direct</title>
-    <desc>Diffusion en direct de Valencia CF contre RC Celta de Vigo dans LaLiga, sur Disney+ LaLiga.</desc>
+  <programme channel="disneypluslaliga" start="20260822160000 +0000" stop="20260822170000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+  </programme>
+  <programme channel="disneypluslaliga" start="20260822170000 +0000" stop="20260822180000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+  </programme>
+  <programme channel="disneypluslaliga" start="20260822180000 +0000" stop="20260822190000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+  </programme>
+  <programme channel="disneypluslaliga" start="20260822190000 +0000" stop="20260822193000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
@@ -7447,11 +7447,8 @@
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
   <programme channel="disneypluslaliga" start="20260827183000 +0000" stop="20260827210000 +0000">
-    <title>Multiplex LaLiga - 2 matchs en direct sur Disney+ LaLiga</title>
-    <desc>⚽ 2 rencontres de LaLiga en direct simultané sur Disney+ LaLiga :
-
-• 18h30 — RC Celta de Vigo vs CA Osasuna
-• 19h00 — FC Barcelona vs Athletic Club</desc>
+    <title>Multiplex LaLiga : RC Celta de Vigo vs CA Osasuna et FC Barcelona vs Athletic Club</title>
+    <desc>Multiplex LaLiga sur Disney+ LaLiga - 2 rencontres en direct simultané : RC Celta de Vigo vs CA Osasuna et FC Barcelona vs Athletic Club.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
@@ -9039,11 +9036,8 @@
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
   <programme channel="disneypluslaliga" start="20260906163000 +0000" stop="20260906183000 +0000">
-    <title>Multiplex LaLiga - 2 matchs en direct sur Disney+ LaLiga</title>
-    <desc>⚽ 2 rencontres de LaLiga en direct simultané sur Disney+ LaLiga :
-
-• 16h30 — Deportivo Alavés vs CA Osasuna
-• 16h30 — Málaga CF vs Levante UD</desc>
+    <title>Multiplex LaLiga : Deportivo Alavés vs CA Osasuna et Málaga CF vs Levante UD</title>
+    <desc>Multiplex LaLiga sur Disney+ LaLiga - 2 rencontres en direct simultané : Deportivo Alavés vs CA Osasuna et Málaga CF vs Levante UD.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
