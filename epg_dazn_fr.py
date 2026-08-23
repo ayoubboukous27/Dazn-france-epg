@@ -9,7 +9,7 @@ API_KEY = "509ceffac75b4189b4c0e129e35941bb"
 NUM_DAYS = 20
 HEADERS = {"X-Auth-Token": API_KEY}
 
-# كل قناة مرتبطة بمسابقة (competition code في football-data.org)
+# كل قناة مرتبطة بمسابقة (competition code في football-data.org) ولغة (fr / en)
 # SA = Serie A | PD = LaLiga (Primera División)
 CHANNELS = [
     {
@@ -20,6 +20,7 @@ CHANNELS = [
         "poster": "https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg",
         "league_label": "Serie A",
         "default_title": "Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts",
+        "lang": "fr",
     },
     {
         "id": "daznlaliga",
@@ -29,6 +30,7 @@ CHANNELS = [
         "poster": "https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png",
         "league_label": "LaLiga",
         "default_title": "Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts",
+        "lang": "fr",
     },
     {
         "id": "disneypluslaliga",
@@ -38,6 +40,38 @@ CHANNELS = [
         "poster": "https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png",
         "league_label": "LaLiga",
         "default_title": "Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts",
+        "lang": "fr",
+    },
+    # قنوات StarzPlay بالإنجليزي - Serie A
+    {
+        "id": "starzplay1",
+        "name": "Starzplay 1",
+        "competition": "SA",
+        "logo": "https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png",
+        "poster": "https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg",
+        "league_label": "Serie A",
+        "default_title": "Serie A Highlights, Analysis, and Expert Commentary",
+        "lang": "en",
+    },
+    {
+        "id": "starzplay2",
+        "name": "Starzplay 2",
+        "competition": "SA",
+        "logo": "https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png",
+        "poster": "https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg",
+        "league_label": "Serie A",
+        "default_title": "Serie A Highlights, Analysis, and Expert Commentary",
+        "lang": "en",
+    },
+    {
+        "id": "starzplay3",
+        "name": "Starzplay 3",
+        "competition": "SA",
+        "logo": "https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png",
+        "poster": "https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg",
+        "league_label": "Serie A",
+        "default_title": "Serie A Highlights, Analysis, and Expert Commentary",
+        "lang": "en",
     },
 ]
 
@@ -82,7 +116,10 @@ def add_programme(channel_id, start_dt, stop_dt, title, desc, logo, poster):
 
 def add_filler(channel_id, cursor, end_dt, ch):
     """يعمر الفراغ بين cursor و end_dt ببلوكات ساعة وحدة (أو أقل فالبلوك الأخير)، بلا أي تداخل ولا فراغ."""
-    desc = f"Couverture complète de {ch['league_label']} sur {ch['name']}. Résumés, Analyse et Commentaire d'Experts."
+    if ch.get("lang") == "en":
+        desc = f"Full coverage of {ch['league_label']} on {ch['name']}. Highlights, Analysis and Expert Commentary."
+    else:
+        desc = f"Couverture complète de {ch['league_label']} sur {ch['name']}. Résumés, Analyse et Commentaire d'Experts."
     while cursor < end_dt:
         block_stop = min(cursor + timedelta(hours=1), end_dt)
         add_programme(channel_id, cursor, block_stop, ch["default_title"], desc, ch["logo"], ch["poster"])
@@ -112,22 +149,34 @@ def build_match_clusters(parsed_matches):
 
 def format_cluster_programme(cluster, ch):
     matches = cluster["matches"]
+    is_en = ch.get("lang") == "en"
+
     if len(matches) == 1:
         start_dt, stop_dt, match = matches[0]
-        title = f"{match['homeTeam']['name']} vs {match['awayTeam']['name']} - {ch['league_label']} en direct"
-        desc = f"Diffusion en direct de {match['homeTeam']['name']} contre {match['awayTeam']['name']} dans {ch['league_label']}, sur {ch['name']}."
+        if is_en:
+            title = f"{match['homeTeam']['name']} vs {match['awayTeam']['name']} - {ch['league_label']} Live"
+            desc = f"Live coverage of {match['homeTeam']['name']} vs {match['awayTeam']['name']} in {ch['league_label']}, on {ch['name']}."
+        else:
+            title = f"{match['homeTeam']['name']} vs {match['awayTeam']['name']} - {ch['league_label']} en direct"
+            desc = f"Diffusion en direct de {match['homeTeam']['name']} contre {match['awayTeam']['name']} dans {ch['league_label']}, sur {ch['name']}."
         return title, desc
 
-    # عدة مباريات فنفس الوقت -> برنامج واحد "Multiplex"، المباريات مفصولة بـ "et" (سطر واحد، بلا قطع)
+    # عدة مباريات فنفس الوقت -> برنامج واحد "Multiplex"، سطر واحد بلا قطع
+    # الفصل بين المباريات: "et" بالفرنسية / "and" بالإنجليزي
     n = len(matches)
     sorted_matches = sorted(matches, key=lambda x: x[0])
-    matchups = " et ".join(
+    separator = " and " if is_en else " et "
+    matchups = separator.join(
         f"{match['homeTeam']['name']} vs {match['awayTeam']['name']}"
         for _, _, match in sorted_matches
     )
 
-    title = f"Multiplex {ch['league_label']} : {matchups}"
-    desc = f"Multiplex {ch['league_label']} sur {ch['name']} - {n} rencontres en direct simultané : {matchups}."
+    if is_en:
+        title = f"Multiplex {ch['league_label']}: {matchups}"
+        desc = f"Multiplex {ch['league_label']} on {ch['name']} - {n} matches live simultaneously: {matchups}."
+    else:
+        title = f"Multiplex {ch['league_label']} : {matchups}"
+        desc = f"Multiplex {ch['league_label']} sur {ch['name']} - {n} rencontres en direct simultané : {matchups}."
     return title, desc
 
 
