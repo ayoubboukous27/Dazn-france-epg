@@ -24,174 +24,6 @@
     <display-name>Starzplay 3</display-name>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
   </channel>
-  <programme channel="daznseriea" start="20260827000000 +0000" stop="20260827010000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827010000 +0000" stop="20260827020000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827020000 +0000" stop="20260827030000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827030000 +0000" stop="20260827040000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827040000 +0000" stop="20260827050000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827050000 +0000" stop="20260827060000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827060000 +0000" stop="20260827070000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827070000 +0000" stop="20260827080000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827080000 +0000" stop="20260827090000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827090000 +0000" stop="20260827100000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827100000 +0000" stop="20260827110000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827110000 +0000" stop="20260827120000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827120000 +0000" stop="20260827130000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827130000 +0000" stop="20260827140000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827140000 +0000" stop="20260827150000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827150000 +0000" stop="20260827160000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827160000 +0000" stop="20260827170000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827170000 +0000" stop="20260827180000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827180000 +0000" stop="20260827190000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827190000 +0000" stop="20260827200000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827200000 +0000" stop="20260827210000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827210000 +0000" stop="20260827220000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827220000 +0000" stop="20260827230000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
-  <programme channel="daznseriea" start="20260827230000 +0000" stop="20260828000000 +0000">
-    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
-  </programme>
   <programme channel="daznseriea" start="20260828000000 +0000" stop="20260828010000 +0000">
     <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
     <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
@@ -3265,173 +3097,180 @@
     <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
     <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznseriea" start="20260915234500 +0000" stop="20260916000000 +0000">
+  <programme channel="daznseriea" start="20260915234500 +0000" stop="20260916004500 +0000">
     <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
     <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
     <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
     <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827000000 +0000" stop="20260827010000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916004500 +0000" stop="20260916014500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827010000 +0000" stop="20260827020000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916014500 +0000" stop="20260916024500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827020000 +0000" stop="20260827030000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916024500 +0000" stop="20260916034500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827030000 +0000" stop="20260827040000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916034500 +0000" stop="20260916044500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827040000 +0000" stop="20260827050000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916044500 +0000" stop="20260916054500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827050000 +0000" stop="20260827060000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916054500 +0000" stop="20260916064500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827060000 +0000" stop="20260827070000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916064500 +0000" stop="20260916074500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827070000 +0000" stop="20260827080000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916074500 +0000" stop="20260916084500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827080000 +0000" stop="20260827090000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916084500 +0000" stop="20260916094500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827090000 +0000" stop="20260827100000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916094500 +0000" stop="20260916104500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827100000 +0000" stop="20260827110000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916104500 +0000" stop="20260916114500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827110000 +0000" stop="20260827120000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916114500 +0000" stop="20260916124500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827120000 +0000" stop="20260827130000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916124500 +0000" stop="20260916134500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827130000 +0000" stop="20260827140000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916134500 +0000" stop="20260916144500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827140000 +0000" stop="20260827150000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916144500 +0000" stop="20260916154500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827150000 +0000" stop="20260827160000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916154500 +0000" stop="20260916164500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827160000 +0000" stop="20260827170000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916164500 +0000" stop="20260916174500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827170000 +0000" stop="20260827180000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916174500 +0000" stop="20260916184500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827180000 +0000" stop="20260827183000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916184500 +0000" stop="20260916194500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827183000 +0000" stop="20260827210000 +0000">
-    <title>Multiplex LaLiga : RC Celta de Vigo vs CA Osasuna et FC Barcelona vs Athletic Club</title>
-    <desc>Multiplex LaLiga sur DAZN LaLiga - 2 rencontres en direct simultané : RC Celta de Vigo vs CA Osasuna et FC Barcelona vs Athletic Club.</desc>
+  <programme channel="daznseriea" start="20260916194500 +0000" stop="20260916204500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827210000 +0000" stop="20260827220000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916204500 +0000" stop="20260916214500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827220000 +0000" stop="20260827230000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916214500 +0000" stop="20260916224500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
-  <programme channel="daznlaliga" start="20260827230000 +0000" stop="20260828000000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+  <programme channel="daznseriea" start="20260916224500 +0000" stop="20260916234500 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+  </programme>
+  <programme channel="daznseriea" start="20260916234500 +0000" stop="20260917000000 +0000">
+    <title>Couverture complète de la Serie A: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de Serie A sur DAZN Serie A. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
+    <banner src="https://github.com/ayoubboukous27/Dazn-france-epg/raw/refs/heads/main/Logo/serie-a-om-dazn_dm0f6994d6wq1m5dxtayqkxk0.jpg" />
   </programme>
   <programme channel="daznlaliga" start="20260828000000 +0000" stop="20260828010000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
@@ -6534,166 +6373,166 @@
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827000000 +0000" stop="20260827010000 +0000">
-    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+  <programme channel="daznlaliga" start="20260916000000 +0000" stop="20260916020000 +0000">
+    <title>Multiplex LaLiga : Rayo Vallecano de Madrid vs RCD Espanyol de Barcelona et RC Deportivo La Coruña vs Sevilla FC et Deportivo Alavés vs Valencia CF et Elche CF vs Real Madrid CF et Málaga CF vs Villarreal CF et Club Atlético de Madrid vs CA Osasuna et Levante UD vs Athletic Club et Real Betis Balompié vs Getafe CF et FC Barcelona vs Real Racing Club de Santander</title>
+    <desc>Multiplex LaLiga sur DAZN LaLiga - 9 rencontres en direct simultané : Rayo Vallecano de Madrid vs RCD Espanyol de Barcelona et RC Deportivo La Coruña vs Sevilla FC et Deportivo Alavés vs Valencia CF et Elche CF vs Real Madrid CF et Málaga CF vs Villarreal CF et Club Atlético de Madrid vs CA Osasuna et Levante UD vs Athletic Club et Real Betis Balompié vs Getafe CF et FC Barcelona vs Real Racing Club de Santander.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827010000 +0000" stop="20260827020000 +0000">
+  <programme channel="daznlaliga" start="20260916020000 +0000" stop="20260916030000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827020000 +0000" stop="20260827030000 +0000">
+  <programme channel="daznlaliga" start="20260916030000 +0000" stop="20260916040000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827030000 +0000" stop="20260827040000 +0000">
+  <programme channel="daznlaliga" start="20260916040000 +0000" stop="20260916050000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827040000 +0000" stop="20260827050000 +0000">
+  <programme channel="daznlaliga" start="20260916050000 +0000" stop="20260916060000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827050000 +0000" stop="20260827060000 +0000">
+  <programme channel="daznlaliga" start="20260916060000 +0000" stop="20260916070000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827060000 +0000" stop="20260827070000 +0000">
+  <programme channel="daznlaliga" start="20260916070000 +0000" stop="20260916080000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827070000 +0000" stop="20260827080000 +0000">
+  <programme channel="daznlaliga" start="20260916080000 +0000" stop="20260916090000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827080000 +0000" stop="20260827090000 +0000">
+  <programme channel="daznlaliga" start="20260916090000 +0000" stop="20260916100000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827090000 +0000" stop="20260827100000 +0000">
+  <programme channel="daznlaliga" start="20260916100000 +0000" stop="20260916110000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827100000 +0000" stop="20260827110000 +0000">
+  <programme channel="daznlaliga" start="20260916110000 +0000" stop="20260916120000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827110000 +0000" stop="20260827120000 +0000">
+  <programme channel="daznlaliga" start="20260916120000 +0000" stop="20260916130000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827120000 +0000" stop="20260827130000 +0000">
+  <programme channel="daznlaliga" start="20260916130000 +0000" stop="20260916140000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827130000 +0000" stop="20260827140000 +0000">
+  <programme channel="daznlaliga" start="20260916140000 +0000" stop="20260916150000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827140000 +0000" stop="20260827150000 +0000">
+  <programme channel="daznlaliga" start="20260916150000 +0000" stop="20260916160000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827150000 +0000" stop="20260827160000 +0000">
+  <programme channel="daznlaliga" start="20260916160000 +0000" stop="20260916170000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827160000 +0000" stop="20260827170000 +0000">
+  <programme channel="daznlaliga" start="20260916170000 +0000" stop="20260916180000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827170000 +0000" stop="20260827180000 +0000">
+  <programme channel="daznlaliga" start="20260916180000 +0000" stop="20260916190000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827180000 +0000" stop="20260827183000 +0000">
+  <programme channel="daznlaliga" start="20260916190000 +0000" stop="20260916200000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827183000 +0000" stop="20260827210000 +0000">
-    <title>Multiplex LaLiga : RC Celta de Vigo vs CA Osasuna et FC Barcelona vs Athletic Club</title>
-    <desc>Multiplex LaLiga sur Disney+ LaLiga - 2 rencontres en direct simultané : RC Celta de Vigo vs CA Osasuna et FC Barcelona vs Athletic Club.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-  </programme>
-  <programme channel="disneypluslaliga" start="20260827210000 +0000" stop="20260827220000 +0000">
+  <programme channel="daznlaliga" start="20260916200000 +0000" stop="20260916210000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827220000 +0000" stop="20260827230000 +0000">
+  <programme channel="daznlaliga" start="20260916210000 +0000" stop="20260916220000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
-  <programme channel="disneypluslaliga" start="20260827230000 +0000" stop="20260828000000 +0000">
+  <programme channel="daznlaliga" start="20260916220000 +0000" stop="20260916230000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
-    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+  </programme>
+  <programme channel="daznlaliga" start="20260916230000 +0000" stop="20260917000000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur DAZN LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/dazn_poster.png" />
   </programme>
   <programme channel="disneypluslaliga" start="20260828000000 +0000" stop="20260828010000 +0000">
     <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
@@ -9796,173 +9635,166 @@
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827000000 +0000" stop="20260827010000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916000000 +0000" stop="20260916020000 +0000">
+    <title>Multiplex LaLiga : Rayo Vallecano de Madrid vs RCD Espanyol de Barcelona et RC Deportivo La Coruña vs Sevilla FC et Deportivo Alavés vs Valencia CF et Elche CF vs Real Madrid CF et Málaga CF vs Villarreal CF et Club Atlético de Madrid vs CA Osasuna et Levante UD vs Athletic Club et Real Betis Balompié vs Getafe CF et FC Barcelona vs Real Racing Club de Santander</title>
+    <desc>Multiplex LaLiga sur Disney+ LaLiga - 9 rencontres en direct simultané : Rayo Vallecano de Madrid vs RCD Espanyol de Barcelona et RC Deportivo La Coruña vs Sevilla FC et Deportivo Alavés vs Valencia CF et Elche CF vs Real Madrid CF et Málaga CF vs Villarreal CF et Club Atlético de Madrid vs CA Osasuna et Levante UD vs Athletic Club et Real Betis Balompié vs Getafe CF et FC Barcelona vs Real Racing Club de Santander.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827010000 +0000" stop="20260827020000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916020000 +0000" stop="20260916030000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827020000 +0000" stop="20260827030000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916030000 +0000" stop="20260916040000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827030000 +0000" stop="20260827040000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916040000 +0000" stop="20260916050000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827040000 +0000" stop="20260827050000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916050000 +0000" stop="20260916060000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827050000 +0000" stop="20260827060000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916060000 +0000" stop="20260916070000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827060000 +0000" stop="20260827070000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916070000 +0000" stop="20260916080000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827070000 +0000" stop="20260827080000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916080000 +0000" stop="20260916090000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827080000 +0000" stop="20260827090000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916090000 +0000" stop="20260916100000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827090000 +0000" stop="20260827100000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916100000 +0000" stop="20260916110000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827100000 +0000" stop="20260827110000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916110000 +0000" stop="20260916120000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827110000 +0000" stop="20260827120000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916120000 +0000" stop="20260916130000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827120000 +0000" stop="20260827130000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916130000 +0000" stop="20260916140000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827130000 +0000" stop="20260827140000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916140000 +0000" stop="20260916150000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827140000 +0000" stop="20260827150000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916150000 +0000" stop="20260916160000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827150000 +0000" stop="20260827160000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916160000 +0000" stop="20260916170000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827160000 +0000" stop="20260827170000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916170000 +0000" stop="20260916180000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827170000 +0000" stop="20260827180000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916180000 +0000" stop="20260916190000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827180000 +0000" stop="20260827190000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916190000 +0000" stop="20260916200000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827190000 +0000" stop="20260827200000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916200000 +0000" stop="20260916210000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827200000 +0000" stop="20260827210000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916210000 +0000" stop="20260916220000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827210000 +0000" stop="20260827220000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916220000 +0000" stop="20260916230000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
-  <programme channel="starzplay1" start="20260827220000 +0000" stop="20260827230000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-  </programme>
-  <programme channel="starzplay1" start="20260827230000 +0000" stop="20260828000000 +0000">
-    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
-    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
-    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  <programme channel="disneypluslaliga" start="20260916230000 +0000" stop="20260917000000 +0000">
+    <title>Couverture complète de LaLiga: Résumés, Analyse et Commentaire d'Experts</title>
+    <desc>Couverture complète de LaLiga sur Disney+ LaLiga. Résumés, Analyse et Commentaire d'Experts.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_plus.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/disney_poster.png" />
   </programme>
   <programme channel="starzplay1" start="20260828000000 +0000" stop="20260828010000 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
@@ -13037,178 +12869,178 @@
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay1" start="20260915234500 +0000" stop="20260916000000 +0000">
+  <programme channel="starzplay1" start="20260915234500 +0000" stop="20260916004500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
     <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827000000 +0000" stop="20260827010000 +0000">
+  <programme channel="starzplay1" start="20260916004500 +0000" stop="20260916014500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827010000 +0000" stop="20260827020000 +0000">
+  <programme channel="starzplay1" start="20260916014500 +0000" stop="20260916024500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827020000 +0000" stop="20260827030000 +0000">
+  <programme channel="starzplay1" start="20260916024500 +0000" stop="20260916034500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827030000 +0000" stop="20260827040000 +0000">
+  <programme channel="starzplay1" start="20260916034500 +0000" stop="20260916044500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827040000 +0000" stop="20260827050000 +0000">
+  <programme channel="starzplay1" start="20260916044500 +0000" stop="20260916054500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827050000 +0000" stop="20260827060000 +0000">
+  <programme channel="starzplay1" start="20260916054500 +0000" stop="20260916064500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827060000 +0000" stop="20260827070000 +0000">
+  <programme channel="starzplay1" start="20260916064500 +0000" stop="20260916074500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827070000 +0000" stop="20260827080000 +0000">
+  <programme channel="starzplay1" start="20260916074500 +0000" stop="20260916084500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827080000 +0000" stop="20260827090000 +0000">
+  <programme channel="starzplay1" start="20260916084500 +0000" stop="20260916094500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827090000 +0000" stop="20260827100000 +0000">
+  <programme channel="starzplay1" start="20260916094500 +0000" stop="20260916104500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827100000 +0000" stop="20260827110000 +0000">
+  <programme channel="starzplay1" start="20260916104500 +0000" stop="20260916114500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827110000 +0000" stop="20260827120000 +0000">
+  <programme channel="starzplay1" start="20260916114500 +0000" stop="20260916124500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827120000 +0000" stop="20260827130000 +0000">
+  <programme channel="starzplay1" start="20260916124500 +0000" stop="20260916134500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827130000 +0000" stop="20260827140000 +0000">
+  <programme channel="starzplay1" start="20260916134500 +0000" stop="20260916144500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827140000 +0000" stop="20260827150000 +0000">
+  <programme channel="starzplay1" start="20260916144500 +0000" stop="20260916154500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827150000 +0000" stop="20260827160000 +0000">
+  <programme channel="starzplay1" start="20260916154500 +0000" stop="20260916164500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827160000 +0000" stop="20260827170000 +0000">
+  <programme channel="starzplay1" start="20260916164500 +0000" stop="20260916174500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827170000 +0000" stop="20260827180000 +0000">
+  <programme channel="starzplay1" start="20260916174500 +0000" stop="20260916184500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827180000 +0000" stop="20260827190000 +0000">
+  <programme channel="starzplay1" start="20260916184500 +0000" stop="20260916194500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827190000 +0000" stop="20260827200000 +0000">
+  <programme channel="starzplay1" start="20260916194500 +0000" stop="20260916204500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827200000 +0000" stop="20260827210000 +0000">
+  <programme channel="starzplay1" start="20260916204500 +0000" stop="20260916214500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827210000 +0000" stop="20260827220000 +0000">
+  <programme channel="starzplay1" start="20260916214500 +0000" stop="20260916224500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827220000 +0000" stop="20260827230000 +0000">
+  <programme channel="starzplay1" start="20260916224500 +0000" stop="20260916234500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260827230000 +0000" stop="20260828000000 +0000">
+  <programme channel="starzplay1" start="20260916234500 +0000" stop="20260917000000 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
+    <desc>Full coverage of Serie A on Starzplay 1. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz1.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
@@ -16285,178 +16117,178 @@
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay2" start="20260915234500 +0000" stop="20260916000000 +0000">
+  <programme channel="starzplay2" start="20260915234500 +0000" stop="20260916004500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
     <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827000000 +0000" stop="20260827010000 +0000">
+  <programme channel="starzplay2" start="20260916004500 +0000" stop="20260916014500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827010000 +0000" stop="20260827020000 +0000">
+  <programme channel="starzplay2" start="20260916014500 +0000" stop="20260916024500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827020000 +0000" stop="20260827030000 +0000">
+  <programme channel="starzplay2" start="20260916024500 +0000" stop="20260916034500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827030000 +0000" stop="20260827040000 +0000">
+  <programme channel="starzplay2" start="20260916034500 +0000" stop="20260916044500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827040000 +0000" stop="20260827050000 +0000">
+  <programme channel="starzplay2" start="20260916044500 +0000" stop="20260916054500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827050000 +0000" stop="20260827060000 +0000">
+  <programme channel="starzplay2" start="20260916054500 +0000" stop="20260916064500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827060000 +0000" stop="20260827070000 +0000">
+  <programme channel="starzplay2" start="20260916064500 +0000" stop="20260916074500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827070000 +0000" stop="20260827080000 +0000">
+  <programme channel="starzplay2" start="20260916074500 +0000" stop="20260916084500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827080000 +0000" stop="20260827090000 +0000">
+  <programme channel="starzplay2" start="20260916084500 +0000" stop="20260916094500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827090000 +0000" stop="20260827100000 +0000">
+  <programme channel="starzplay2" start="20260916094500 +0000" stop="20260916104500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827100000 +0000" stop="20260827110000 +0000">
+  <programme channel="starzplay2" start="20260916104500 +0000" stop="20260916114500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827110000 +0000" stop="20260827120000 +0000">
+  <programme channel="starzplay2" start="20260916114500 +0000" stop="20260916124500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827120000 +0000" stop="20260827130000 +0000">
+  <programme channel="starzplay2" start="20260916124500 +0000" stop="20260916134500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827130000 +0000" stop="20260827140000 +0000">
+  <programme channel="starzplay2" start="20260916134500 +0000" stop="20260916144500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827140000 +0000" stop="20260827150000 +0000">
+  <programme channel="starzplay2" start="20260916144500 +0000" stop="20260916154500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827150000 +0000" stop="20260827160000 +0000">
+  <programme channel="starzplay2" start="20260916154500 +0000" stop="20260916164500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827160000 +0000" stop="20260827170000 +0000">
+  <programme channel="starzplay2" start="20260916164500 +0000" stop="20260916174500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827170000 +0000" stop="20260827180000 +0000">
+  <programme channel="starzplay2" start="20260916174500 +0000" stop="20260916184500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827180000 +0000" stop="20260827190000 +0000">
+  <programme channel="starzplay2" start="20260916184500 +0000" stop="20260916194500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827190000 +0000" stop="20260827200000 +0000">
+  <programme channel="starzplay2" start="20260916194500 +0000" stop="20260916204500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827200000 +0000" stop="20260827210000 +0000">
+  <programme channel="starzplay2" start="20260916204500 +0000" stop="20260916214500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827210000 +0000" stop="20260827220000 +0000">
+  <programme channel="starzplay2" start="20260916214500 +0000" stop="20260916224500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827220000 +0000" stop="20260827230000 +0000">
+  <programme channel="starzplay2" start="20260916224500 +0000" stop="20260916234500 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260827230000 +0000" stop="20260828000000 +0000">
+  <programme channel="starzplay2" start="20260916234500 +0000" stop="20260917000000 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
-    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
-    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <desc>Full coverage of Serie A on Starzplay 2. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz2.png" />
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
@@ -19533,7 +19365,175 @@
     <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
     <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
   </programme>
-  <programme channel="starzplay3" start="20260915234500 +0000" stop="20260916000000 +0000">
+  <programme channel="starzplay3" start="20260915234500 +0000" stop="20260916004500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916004500 +0000" stop="20260916014500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916014500 +0000" stop="20260916024500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916024500 +0000" stop="20260916034500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916034500 +0000" stop="20260916044500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916044500 +0000" stop="20260916054500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916054500 +0000" stop="20260916064500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916064500 +0000" stop="20260916074500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916074500 +0000" stop="20260916084500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916084500 +0000" stop="20260916094500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916094500 +0000" stop="20260916104500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916104500 +0000" stop="20260916114500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916114500 +0000" stop="20260916124500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916124500 +0000" stop="20260916134500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916134500 +0000" stop="20260916144500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916144500 +0000" stop="20260916154500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916154500 +0000" stop="20260916164500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916164500 +0000" stop="20260916174500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916174500 +0000" stop="20260916184500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916184500 +0000" stop="20260916194500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916194500 +0000" stop="20260916204500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916204500 +0000" stop="20260916214500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916214500 +0000" stop="20260916224500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916224500 +0000" stop="20260916234500 +0000">
+    <title>Serie A Highlights, Analysis, and Expert Commentary</title>
+    <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
+    <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
+    <poster src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+    <banner src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/seriea.jpg" />
+  </programme>
+  <programme channel="starzplay3" start="20260916234500 +0000" stop="20260917000000 +0000">
     <title>Serie A Highlights, Analysis, and Expert Commentary</title>
     <desc>Full coverage of Serie A on Starzplay 3. Highlights, Analysis and Expert Commentary.</desc>
     <icon src="https://raw.githubusercontent.com/ayoubboukous27/Starzplay-sports-epg-xml/refs/heads/main/Logos/starz3.png" />
