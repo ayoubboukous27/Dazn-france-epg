@@ -10,7 +10,7 @@ NUM_DAYS = 20
 HEADERS = {"X-Auth-Token": API_KEY}
 
 # كل قناة مرتبطة بمسابقة (competition code في football-data.org) ولغة (fr / en)
-# SA = Serie A | PD = LaLiga (Primera División)
+# SA = Serie A | PD = LaLiga (Primera División) | PL = Premier League
 CHANNELS = [
     {
         "id": "daznseriea",
@@ -74,6 +74,33 @@ CHANNELS = [
         "lang": "en",
     },
 ]
+
+# قنوات Premier League+ 1 إلى 6 (بالفرنسي، نفس منطق LaLiga/Serie A) - PL = Premier League
+# ملاحظة: ما عندناش poster خاص بهاذ الدوري، فاستعملنا نفس الـ logo كـ poster/banner
+PL_DEFAULT_TITLE = "Couverture complète de la Premier League: Résumés, Analyse et Commentaire d'Experts"
+for n in range(1, 7):
+    CHANNELS.append({
+        "id": f"premierleagueplus{n}",
+        "name": f"Premier League+{n}",
+        "competition": "PL",
+        "logo": f"https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/Premier_League_%2B{n}.png",
+        "poster": f"https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/Premier_League_%2B{n}.png",
+        "league_label": "Premier League",
+        "default_title": PL_DEFAULT_TITLE,
+        "lang": "fr",
+    })
+
+# قناة Premier League+ HD (وحدة، بلا رقم)
+CHANNELS.append({
+    "id": "premierleagueplushd",
+    "name": "Premier League+ HD",
+    "competition": "PL",
+    "logo": "https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/Premier_league-.png",
+    "poster": "https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/Premier_league-.png",
+    "league_label": "Premier League",
+    "default_title": PL_DEFAULT_TITLE,
+    "lang": "fr",
+})
 
 # -------------------------
 # سحب المباريات لكل مسابقة (مرة وحدة لكل competition code)
