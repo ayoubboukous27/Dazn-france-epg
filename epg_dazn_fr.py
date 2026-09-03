@@ -84,7 +84,7 @@ for n in range(1, 7):
         "name": f"Premier League+{n}",
         "competition": "PL",
         "logo": f"https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/Premier_League_Plus_{n}.png",
-        "poster":"https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/premier_league_poster.png",
+        "poster": f"https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/Premier_League_Plus_{n}.png",
         "league_label": "Premier League",
         "default_title": PL_DEFAULT_TITLE,
         "lang": "fr",
@@ -251,3 +251,4 @@ tree.write("epg.xml", encoding="utf-8", xml_declaration=True)
 
 channel_names = " و ".join(ch["name"] for ch in CHANNELS)
 print(f"تم إنشاء epg.xml لمدة {NUM_DAYS} يوم لقنوات {channel_names} - مباريات متزامنة مدموجة، بلا فراغات")
+        
