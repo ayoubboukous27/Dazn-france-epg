@@ -84,7 +84,7 @@ for n in range(1, 7):
         "name": f"Premier League+{n}",
         "competition": "PL",
         "logo": f"https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/Premier_League_Plus_{n}.png",
-        "poster": f"https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/Premier_League_Plus_{n}.png",
+        "poster":"https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/premier_league_poster.png",
         "league_label": "Premier League",
         "default_title": PL_DEFAULT_TITLE,
         "lang": "fr",
