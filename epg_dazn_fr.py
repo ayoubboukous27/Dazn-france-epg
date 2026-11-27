@@ -95,7 +95,7 @@ CHANNELS.append({
     "id": "premierleagueplushd",
     "name": "Premier League+ HD",
     "competition": "PL",
-    "logo": "https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/Premier_league-.png",
+    "logo": "https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/premier_league.png",
     "poster": "https://raw.githubusercontent.com/ayoubboukous27/Dazn-france-epg/refs/heads/main/Logo/Premier_league-.png",
     "league_label": "Premier League",
     "default_title": PL_DEFAULT_TITLE,
